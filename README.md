@@ -28,7 +28,9 @@ Developed a web application for exploring, searching, and organizing structured 
 
 **Brand Website & Front-End Development**
 
-Developed a responsive website for a skincare brand, incorporating product information, brand presentation, and customer communication features.
+Developed a responsive website for a skincare brand, incorporating product information, brand presentation, customer communication features, and implementing an automated mailing list feature.
+
+![ROSASCHI Homepage](assets/rosaschi-homepage.png)
 
 * Custom website layout and visual design.
 * Integrated contact forms using Formspree.
