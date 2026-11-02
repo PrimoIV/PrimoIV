@@ -24,8 +24,6 @@ Developed a web application for exploring, searching, and organizing structured 
 
 **Technologies:** JavaScript, HTML, CSS, JSON, Python/Node.js tooling.
 
-### [ROSASCHI Website](https://github.com/PrimoIV/rosaschi-site)
-
 **Brand Website & Front-End Development**
 
 Developed a responsive website for a skincare brand, incorporating product information, brand presentation, customer communication features, and implementing an automated mailing list feature.
@@ -38,6 +36,8 @@ Developed a responsive website for a skincare brand, incorporating product infor
 * Static website deployment using GitHub Pages.
 
 **Technologies:** HTML5, CSS3, JavaScript, GitHub Pages.
+
+### [ROSASCHI Website](https://github.com/PrimoIV/rosaschi-site)
 
 ### SEQARRA Biosciences
 **Private E-Commerce Development Project | In Progress**
